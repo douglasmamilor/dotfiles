@@ -36,32 +36,32 @@ install_package() {
 #install_package "Homebrew Update" brew update
 #install_package "Homebrew Upgrade" brew upgrade
 
-#install_package "Installing mas" brew install mas
-#install_package "Installing Zsh" brew install zsh
-#install_package "Installing Node" brew install node
-#install_package "Installing Hub" brew install hub
-#install_package "Installing Tmux" brew install tmux
-#install_package "Installing Coreutils" brew install coreutils
-#install_package "Installing Tmux stuff" brew install reattach-to-user-namespace
-#install_package "Installing Ack" brew install ack
-#install_package "Installing Ag" brew install the_silver_searcher
-#install_package "Installing jq" brew install jq
-#install_package "Installing Python 3" brew install python3
-#install_package "Installing gnu sed" brew install gnu-sed
-#install_package "Installing diff-so-fancy" brew install diff-so-fancy
-#install_package "Installing grc" brew install grc
+install_package "Installing mas" brew install mas
+install_package "Installing Zsh" brew install zsh
+install_package "Installing Node" brew install node
+install_package "Installing Hub" brew install hub
+install_package "Installing Tmux" brew install tmux
+install_package "Installing Coreutils" brew install coreutils
+install_package "Installing Tmux stuff" brew install reattach-to-user-namespace
+install_package "Installing Ack" brew install ack
+install_package "Installing Ag" brew install the_silver_searcher
+install_package "Installing jq" brew install jq
+install_package "Installing Python 3" brew install python3
+install_package "Installing gnu sed" brew install gnu-sed
+install_package "Installing diff-so-fancy" brew install diff-so-fancy
+install_package "Installing grc" brew install grc
 
-#install_package "Installing speed-test" npm install speed-test -g
-#install_package "Installing vmd" npm install vmd -g
-#install_package "Installing ESLint" npm install eslint -g
-#install_package "Installing ESLint React" npm install eslint-plugin-react -g
-#install_package "Installing ESLint babel" npm install babel-eslint -g
-#install_package "Installing flow" npm install flow-bin -g
+install_package "Installing speed-test" npm install speed-test -g
+install_package "Installing vmd" npm install vmd -g
+install_package "Installing ESLint" npm install eslint -g
+install_package "Installing ESLint React" npm install eslint-plugin-react -g
+install_package "Installing ESLint babel" npm install babel-eslint -g
+install_package "Installing flow" npm install flow-bin -g
 
-#install_package "Installing Neovim" brew install neovim/neovim/neovim --override-system-vim --with-python3
+install_package "Installing Neovim" brew install neovim/neovim/neovim --override-system-vim --with-python3
 
-#install_package "Homebrew tap things.sh" brew tap AlexanderWillner/tap
-#install_package "Installing things.sh" brew install things.sh
+install_package "Homebrew tap things.sh" brew tap AlexanderWillner/tap
+install_package "Installing things.sh" brew install things.sh
 
 install_package "Homebrew Cask" brew install caskroom/cask/brew-cask
 install_package "Homebrew tap versions" brew tap caskroom/versions
