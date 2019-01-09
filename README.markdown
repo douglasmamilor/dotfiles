@@ -3,8 +3,8 @@
 ## install
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/jansedivy/dotfiles/master/scripts/run | sh
+curl -fsSL https://raw.githubusercontent.com/douglasmamilor/dotfiles/master/scripts/run | sh
 ```
 
 ## Thanks
-based on [Zach Holman's](http://github.com/holman/dotfiles) dotfiles
+based on [Jan Sedivy's](http://github.com/jansedivy/dotfiles) dotfiles
