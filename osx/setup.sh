@@ -34,4 +34,3 @@ install_package() {
 
 
 printf "[ \033[00;33mSystem\033[0m ]\n"
-# install_package "Setting up defaults\n" ./.macos
