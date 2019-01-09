@@ -33,8 +33,8 @@ install_package() {
 }
 
   printf "[ \033[00;33mSystem Apps\033[0m ]\n"
-install_package "Homebrew Update" brew update
-install_package "Homebrew Upgrade" brew upgrade
+#install_package "Homebrew Update" brew update
+#install_package "Homebrew Upgrade" brew upgrade
 
 install_package "Installing mas" brew install mas
 install_package "Installing Zsh" brew install zsh
